@@ -1,2 +1,2 @@
 # census-with-R-notes
-Analyzing US Census Data: Methods, Maps, and Models in R (Book notes)
+Notes on Analyzing US Census Data: Methods, Maps, and Models in R by Kyle walker
